@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(../assets/fonts/Inter-VariableFont_slnt,wght.ttf);
+}
+
+:root {
+    --clr-primary-Green: #c5f82a;
+    
+    --clr-neutral-White: #ffffff;
+    --clr-neutral-Grey: #333333;
+    --clr-neutral-Dark-Grey: #1f1f1f;
+    --clr-neutral-Off-Black: #141414;
+
+    --ff: 'Inter', sans-serif;
+    --fs-body: .875rem;
+    --fs-heading: 1.375rem;
+    --fw-400: 400;
+    --fw-600: 600;
+    --fw-700: 700;
+}
